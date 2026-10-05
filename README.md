@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9C6AF7&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Turning+ideas+into+working+code+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nimra-jabbar-8149bb3b7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nimra.jabbarr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NimraJabbarr)
 
 </div>
@@ -23,7 +23,7 @@ I love turning ideas into working code — from **AI agents** and **RAG systems*
 - 🌐 Building **full-stack applications** with Django & REST APIs
 - 🚀 Learning in public — every project documented and shipped
 
-📍 Lahore, Pakistan
+📍 Sargodha, Pakistan
 
 ---
 
